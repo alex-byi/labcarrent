@@ -1,0 +1,13 @@
+/.idea/
+/.settings/
+/.vscode/
+/target/
+.classpath
+.factorypath
+.project
+/my-web-project.iml
+*.iml
+/controller/target/
+/dao/target/
+/service/target/
+/hibernatejpa/target/
